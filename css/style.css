@@ -1,0 +1,30 @@
+img{
+	width:100%;
+}
+
+.container-fluid img{
+	width:100%;
+}
+
+.container{
+	height:100vh;
+}
+
+h1{
+	color:#5051F9;
+	text-transform:uppercase;
+	font-family: 'Slabo 27px', serif;
+	font-family: 'Roboto Slab', serif;
+}
+
+body{
+	font-family: 'Antic Slab', serif;
+}
+
+#denny{
+    border-radius: 50%;
+}
+
+.end{
+	height:auto;
+}
